@@ -1,2 +1,4 @@
 # Use-Math.random
-Change randomFraction to return a random number instead of returning 0.
+Change random Fraction to return a random number instead of returning 0.
+
+Also generate random whole numbers with JavaScript.
